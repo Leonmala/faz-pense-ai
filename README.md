@@ -27,10 +27,10 @@ Cada decisão de design é explicada no momento em que é tomada. Você aprende 
 ## Instalação
 
 1. Baixe o ZIP em [pense-ai.com/faz-pense-ai](https://www.pense-ai.com/faz-pense-ai/)
-2. Extraia na pasta do seu projeto
-3. Abra no Claude Code ou Cowork e siga as instruções
+2. Extraia a pasta e atribua a mesma em uma seção code ou cowork.
+3. Arraste faz.pense-ai.md para o chat e siga as instruções
 
-**Requisitos:** Claude Code ou Cowork · Conta Anthropic (plano gratuito funciona)
+**Requisitos:** Claude Code ou Cowork · Conta Anthropic (minimo max)
 
 ---
 
