@@ -1,51 +1,58 @@
 # faz.pense-ai
 
-**Crie seu agente de IA personalizado — sem código, sem configuração complexa.**
+**Um meta-agente que te ensina a criar agentes — enquanto cria o seu.**
 
-`faz.pense-ai` é uma ferramenta open source da [Pense-AI](https://www.pense-ai.com) para criar agentes de IA adaptados ao seu contexto de trabalho. Você responde algumas perguntas sobre sua rotina e o sistema monta um agente pronto para operar no Claude Code ou no Cowork.
+`faz.pense-ai` conduz uma entrevista estruturada sobre sua rotina, suas ferramentas e seus objetivos. Enquanto você responde, ele aplica as melhores técnicas de design de agentes, constrói seu agente personalizado em tempo real e se auto-instala como uma skill — pronta para rodar nas próximas sessões sem configuração adicional.
 
-O mesmo método que usamos internamente — agora disponível para qualquer pessoa.
+Você sai com um agente funcionando **e** com o entendimento de como ele foi feito.
 
 ---
 
-## O que é
+## Como funciona
 
-- Entrevista estruturada que mapeia seu perfil, ferramentas e objetivos
-- Geração automática de um agente com identidade, comportamento e instruções definidas
-- Inclui guia passo a passo para quem nunca usou Claude
+**1. Entrevista guiada**
+O faz.pense-ai faz as perguntas certas: quem você é, como trabalha, quais ferramentas usa, o que incomoda na sua rotina. Cada resposta alimenta o perfil do seu agente.
 
-## Como usar
+**2. Construção em tempo real**
+Enquanto a entrevista avança, o agente vai tomando forma — identidade, comportamento, protocolos, instruções. Você vê o processo, não só o resultado.
 
-1. Baixe o arquivo ZIP em [pense-ai.com/faz-pense-ai](https://www.pense-ai.com/faz-pense-ai/)
-2. Extraia e abra no Claude Code ou Cowork
-3. Siga o processo de entrevista
-4. Seu agente estará pronto em minutos
+**3. Auto-instalação como skill**
+Ao final, o agente se instala automaticamente como uma skill global no Claude Code ou Cowork. Na próxima sessão, ele já está lá — sem precisar reconfigurar nada.
 
-## Requisitos
+**4. Transferência de conhecimento**
+Cada decisão de design é explicada no momento em que é tomada. Você aprende as técnicas enquanto o agente é construído para você.
 
-- [Claude Code](https://claude.ai/code) ou Cowork
-- Conta Anthropic (plano gratuito funciona)
+---
+
+## Instalação
+
+1. Baixe o ZIP em [pense-ai.com/faz-pense-ai](https://www.pense-ai.com/faz-pense-ai/)
+2. Extraia na pasta do seu projeto
+3. Abra no Claude Code ou Cowork e siga as instruções
+
+**Requisitos:** Claude Code ou Cowork · Conta Anthropic (plano gratuito funciona)
 
 ---
 
 ## Contribuindo
 
-`faz.pense-ai` é código aberto e cresce com a comunidade.
+`faz.pense-ai` é open source e evolui com a comunidade.
 
-Se você trabalha com IA, automação ou desenvolvimento — sua contribuição é bem-vinda.
+Se você trabalha com IA, automação ou design de agentes — sua contribuição tem impacto direto em como outras pessoas vão criar os seus.
 
 **Como colaborar:**
-- Abra uma [issue](../../issues) com sugestões, bugs ou casos de uso
+- Abra uma [issue](../../issues) com sugestões, melhorias ou bugs
+- Proponha novas perguntas para a entrevista
+- Compartilhe o agente que você criou (tag `showcase`)
 - Faça um fork e envie um pull request
-- Compartilhe como você está usando o faz.pense-ai (abre uma issue com a tag `showcase`)
 
-Nenhuma contribuição é pequena demais. Uma sugestão de pergunta para a entrevista já muda o resultado para centenas de pessoas.
+Nenhuma contribuição é pequena demais. Uma pergunta melhor na entrevista muda o resultado para centenas de pessoas.
 
 ---
 
 ## Comunidade
 
-Participe do grupo Pense-AI no WhatsApp para novidades, dicas e troca de experiências com outros usuários:
+Grupo Pense-AI no WhatsApp — novidades, casos de uso e troca com outros usuários:
 [Entrar no grupo](https://chat.whatsapp.com/EWHPAmyLzJgGTyW6DFbOb)
 
 ---
